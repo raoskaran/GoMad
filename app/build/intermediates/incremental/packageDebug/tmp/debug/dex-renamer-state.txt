@@ -1,0 +1,4 @@
+#Wed Nov 06 11:21:17 IST 2019
+base.0=/Users/shadow/AndroidStudioProjects/Mp3Player/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

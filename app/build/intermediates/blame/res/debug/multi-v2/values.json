@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/shadow/AndroidStudioProjects/Mp3Player/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/shadow/AndroidStudioProjects/Mp3Player/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "10,12,11,9,6,7,15,4,3,16,5,14,13,8",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "396,492,443,345,206,244,658,100,56,700,153,600,540,284",
+                        "endColumns": "46,47,48,50,37,39,41,52,43,42,52,57,59,60",
+                        "endOffsets": "438,535,487,391,239,279,695,148,95,738,201,653,595,340"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "169,216,264,313,364,402,442,484,537,581,624,677,735,795",
+                        "endColumns": "46,47,48,50,37,39,41,52,43,42,52,57,59,60",
+                        "endOffsets": "211,259,308,359,397,437,479,532,576,619,672,730,790,851"
+                    }
+                },
+                {
+                    "source": "/Users/shadow/AndroidStudioProjects/Mp3Player/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "186,510",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "472,665"
+                    },
+                    "to": {
+                        "startLines": "18,25",
+                        "startColumns": "4,4",
+                        "startOffsets": "856,1147",
+                        "endLines": "24,27",
+                        "endColumns": "12,12",
+                        "endOffsets": "1142,1302"
+                    }
+                },
+                {
+                    "source": "/Users/shadow/AndroidStudioProjects/Mp3Player/app/src/main/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "89,147",
+                        "endColumns": "57,55",
+                        "endOffsets": "142,198"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                }
+            ]
+        }
+    ]
+}
